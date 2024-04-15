@@ -1,0 +1,21 @@
+Name,Description,Image,Category,Airline,Source,Destination,Departure Time,Arrival Time,Price,Location,Rating,Reviews
+Bali,An Indonesian island known for its forested volcanic mountains,https://upload.wikimedia.org/wikipedia/commons/e/e8/BALI.png,Destination,,,,Denpasar,,,,,
+Paris,The capital of France and one of the most romantic cities in the world,https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Paris_skyline_at_dusk_HDR_Vivid.jpg/1200px-Paris_skyline_at_dusk_HDR_Vivid.jpg,Destination,,,,Charles de Gaulle,,,,,
+New York,The largest city in the United States and a major cultural and financial center,https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Manhattan_from_Brooklyn_%28cropped%29.jpg/1200px-Manhattan_from_Brooklyn_%28cropped%29.jpg,Destination,,,,John F. Kennedy,,,,,
+Tokyo,The capital city of Japan known for its vibrant culture, https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Tokyo_Tower%2C_2015_%28western_side%29.jpg/1200px-Tokyo_Tower%2C_2015_%28western_side%29.jpg,Destination,,,,Narita,,,,,
+Dubai,A city in the United Arab Emirates known for luxury shopping, ultramodern architecture, and a lively nightlife scene,https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Dubai_Fountain_at_Night_%2831921656794%29.jpg/1200px-Dubai_Fountain_at_Night_%2831921656794%29.jpg,Destination,,,,Dubai International,,,,,
+Delta Airlines,,,Flight,Delta Airlines,New York,Los Angeles,10:00 AM,1:00 PM,$300,,,
+United Airlines,,,Flight,United Airlines,New York,Los Angeles,12:00 PM,3:00 PM,$350,,,
+American Airlines,,,Flight,American Airlines,New York,Los Angeles,2:00 PM,5:00 PM,$400,,,
+Emirates Airlines,,,Flight,Emirates Airlines,Dubai,London,9:00 AM,11:00 AM,$500,,,
+British Airways,,,Flight,British Airways,London,New York,10:00 AM,1:00 PM,$600,,,
+Cathay Pacific,,,Flight,Cathay Pacific,Hong Kong,New York,11:00 AM,3:00 PM,$700,,,
+Qantas Airways,,,Flight,Qantas Airways,Sydney,Tokyo,8:00 AM,2:00 PM,$800,,,
+Singapore Airlines,,,Flight,Singapore Airlines,Singapore,Paris,7:00 AM,2:00 PM,$900,,,
+Lufthansa,,,Flight,Lufthansa,Paris,New York,9:00 AM,1:00 PM,$1000,,,
+Hilton,A luxury hotel chain with locations around the world,https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Hilton_Hotels_logo.svg/1200px-Hilton_Hotels_logo.svg.png,Hotel,,,,Los Angeles,$200,4.5,Los Angeles,,Hilton-Los-Angeles
+InterContinental,A luxury hotel brand with locations around the world,https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/InterContinental_Hotels_Group_logo.svg/1200px-InterContinental_Hotels_Group_logo.svg.png,Hotel,,,,Paris,$250,4.7,Paris,,InterContinental-Los-Angeles
+Marriott,A luxury hotel brand with locations around the world,https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Marriott_International_logo.svg/1200px-Marr,,,,Paris,$250,4.7,,Bali,InterContinental-Los-Angeles,
+Sheraton,A luxury hotel brand with locations around the world,https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Sheraton_Hotels_%26_Resorts_Logo.svg/1200px-Sheraton_Hotels_%26_Resorts_Logo.svg.png,Hotel,,,,New York,$300,4.3,New York,,Sheraton-New-York
+Hyatt Regency,A luxury hotel brand with locations around the world,https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Hyatt_Hotels_Corporation_Logo.svg/1200px-Hyatt_Hotels_Corporation_Logo.svg.png,Hotel,,,,Dubai,$400,4.6,Dubai,,Hyatt-Regency-Dubai
+Shangri-La,A luxury hotel brand with locations around the world,https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Shangri-La_logo.svg/1200px-Shangri-La_logo.svg.png,Hotel,,,,Tokyo,$350,4.8,Tokyo,,Shangri-La-Tokyo
